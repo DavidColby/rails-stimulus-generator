@@ -8,7 +8,7 @@ Add the gem to your Gemfile
 gem 'rails-stimulus-generator'
 ```
 
-And `bundle:install`
+And `bundle install`
 
 ## Usage
 
