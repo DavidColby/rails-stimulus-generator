@@ -27,6 +27,8 @@ import { Controller } from 'stimulus'
 
 export default class extends Controller {
   static targets = []
+  static classes = []
+  static values = {}
 
   initialize() {
     // Called once, when the controller is first instantiated
