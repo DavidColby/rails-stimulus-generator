@@ -1,9 +1,3 @@
-Description:
-    Stubs out a new Stimulus controller.
+# README
 
-    This generator accepts one argument, the name of the controller, CamelCased or under_scored.
-
-Example:
-    `rails generate stimulus Thing`
-
-    This will create a new Stimulus controller at `app/javascript/controllers/thing_controller.js`
+This gem is no longer necessary, as there is now a controller generator built directly into `stimulus-rails`. Use the built-in generator instead with `rails g stimulus [CONTROLLER]`
